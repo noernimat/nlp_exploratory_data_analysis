@@ -68,7 +68,29 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 * Consider the text data already for analysis. Assume that data used to exploratory graph and ext.
 
 **Formulation of the problem**
-* Data Preparation and Exploratory Data Analysis
+
+*Data Preparation and Exploratory Data Analysis*
+
+* Text classification : count words in a sentence
+* Tokenizes (breaks down words )
+        
+        I have no read the novel 
+        'i', 'have', 'no', 'read', 'the', 'novel'
+* Removes punctuation and non-word text 
+        
+        “!;’#
+* Finds word stems 
+        “chocolates”, “chocolatey”
+* Rejoins meaningful stem words         
+* Removes stop words 
+
+        “the, a, …”
+* Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral.
+* SentimentIntensityAnalyzer
+* Exploratory Data Analysis for Natural Language Processing  
+    
+        WordCloud
+
 
 ## Results
 
