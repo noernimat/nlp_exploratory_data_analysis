@@ -72,4 +72,12 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 
 ## Results
 
-![Most Frequent Words in Highly Rated Comments](data_visualization_images/Most Frequent Words in Highly Rated Comments.png)
+![norm-sentimentdist](data_visualization_images/norm-sentimentdist.png)
+
+
+
+![sentiment-deptname-rating-recommended](data_visualization_images/sentiment-deptname-rating-recommended.png)
+
+
+
+![HighlyRated](data_visualization_images/HighlyRated.png)
