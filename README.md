@@ -97,8 +97,6 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 
 ## Results
 
-![HighlyRated](data_visualization_images/HighlyRated.png)
-
 
 
 ![norm-sentimentdist](data_visualization_images/norm-sentimentdist.png)
@@ -106,6 +104,9 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 
 
 ![sentiment-deptname-rating-recommended](data_visualization_images/sentiment-deptname-rating-recommended.png)
+
+
+![HighlyRated](data_visualization_images/HighlyRated.png)
 
 
 
