@@ -65,10 +65,10 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 * Failure means text data used for sentiment predicted is no better than current heuristics.
 
 **Heuristics**
-* Consider the text data already for analysis. Assume that data used to exploratory graph and ext
+* Consider the text data already for analysis. Assume that data used to exploratory graph and ext.
 
 **Formulation of the problem**
-* Data Preparation and Explotratory Data Analysis
+* Data Preparation and Exploratory Data Analysis
 
 ## Results
 
