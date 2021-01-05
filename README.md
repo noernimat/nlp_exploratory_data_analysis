@@ -80,6 +80,7 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
         
         “!;’#
 * Finds word stems 
+        
         “chocolates”, “chocolatey”
 * Rejoins meaningful stem words         
 * Removes stop words 
