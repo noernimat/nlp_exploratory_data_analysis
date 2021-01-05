@@ -29,13 +29,17 @@ being reviewed.
 
 
 ***Acknowledgements***
+
 Anonymous but real source
 
 ***Inspiration***
+
 Nicapotato, an owner of dataset Women's E-Commerce Clothing Reviews that looks forward to coming quality NLP! There are also some great opportunities for feature engineering and multivariate analysis.
 
 ***Publication***
+
 [Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network](https://www.researchgate.net/publication/323545316_Statistical_Analysis_on_E-Commerce_Reviews_with_Sentiment_Classification_using_Bidirectional_Recurrent_Neural_Network)
+
 
 by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-analysis)
 
@@ -68,8 +72,6 @@ by [Abien Fred Agarap - Github](https://github.com/AFAgarap/ecommerce-reviews-an
 * Consider the text data already for analysis. Assume that data used to exploratory graph and ext.
 
 **Formulation of the problem**
-
-*Data Preparation and Exploratory Data Analysis*
 
 * Text classification : count words in a sentence
 * Tokenizes (breaks down words )
